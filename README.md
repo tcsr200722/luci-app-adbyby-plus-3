@@ -1,0 +1,21 @@
+# 更新地址
+- md5地址更新为:https://cdn.jsdelivr.net/gh/kongfl888/ad-rules/md5.json
+- lazy地址更新为:https://cdn.jsdelivr.net/gh/kongfl888/ad-rules/lazy.txt
+- video地址更新为:https://cdn.jsdelivr.net/gh/kongfl888/ad-rules/video.txt
+# 添加了第三方规则列表地址
+- https://cdn.jsdelivr.net/gh/cjx82630/cjxlist/cjx-annoyance.txt
+- https://easylist-downloads.adblockplus.org/easylistchina.txt
+- https://easylist-downloads.adblockplus.org/easyprivacy.txt
+- https://easylist-downloads.adblockplus.org/easylist.txt
+- https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt
+- https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/cpbl-abp-list.txt
+- https://anti-ad.net/easylist.txt
+- https://anti-ad.net/anti-ad-for-dnsmasq.conf
+- https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
+- https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
+
+# 以上源均来自于以下地址
+- https://adblockplus.org/zh_CN/subscriptions
+- https://github.com/privacy-protection-tools/anti-AD
+- https://anti-ad.net
+- https://github.com/cjx82630/cjxlist
